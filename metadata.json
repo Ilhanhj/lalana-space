@@ -1,0 +1,6 @@
+{
+  "name": "Lalana Space",
+  "description": "Restoran, kafe, dan ruang sosial dengan pemandangan sawah asri di Bojongsoang, Bandung Selatan. Menyediakan hidangan lezat Nusantara & Barat, kopi istimewa, serta layanan sewa ruang untuk pernikahan intim, reuni, gathering, dan buffet.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
